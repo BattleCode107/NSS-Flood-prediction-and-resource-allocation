@@ -17,7 +17,7 @@ Built specifically for the highly vulnerable, flood-prone coastal districts of O
 | Nishant | 241137089 | nishant1@me.iitr.ac.in |
 | Vedant Ganesh Halkude | 24112113 | vedant_gh@ch.iitr.ac.in |
 | Aric Sukhija | 24126019 | aric_s@ch.iitr.ac.in|
-| Harshdeep | 24112048 | harsh_d@ch.iitr.ac.in |
+| Harsh Deep | 24112048 | harsh_d@ch.iitr.ac.in |
 | gaurang Jindal | 24112045 | gaurang_j@ch.iitr.ac.in |
 
 
