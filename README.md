@@ -10,6 +10,15 @@ Built specifically for the highly vulnerable, flood-prone coastal districts of O
 
 ---
 
+## Submitted By
+
+| Name | Enrollment Number | Email |
+|--------|--------|--------|
+| Nishant | 241137089 | nishant1@me.iitr.ac.in |
+| Vedant Ganesh Halkude | 24112113 | vedant_gh@ch.iitr.ac.in |
+| Aric Sukhija | 24126019 | aric_s@ch.iitr.ac.in|
+| Harshdeep | 24126019 | vatsal_j@hre.iitr.ac.in |
+
 ## The Problem & The Solution
 During natural disasters, NGOs face chaotic environments characterized by limited supplies and broken communication lines. 
 
